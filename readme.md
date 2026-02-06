@@ -1,1 +1,2 @@
-# h1 Verkefni 3, Kest, Marjón
+# Verkefni 3, Kest, Marjón
+
